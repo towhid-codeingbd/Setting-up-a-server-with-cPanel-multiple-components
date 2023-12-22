@@ -1,4 +1,4 @@
-Setting up a server with multiple components like cPanel, LiteSpeed, CloudLinux, Imunify360, Let's Encrypt SSL, JetBackup, and a firewall requires several steps
+Setting up a vps/dedicated server on centos 7 or centos 8 with multiple components like cPanel, LiteSpeed, CloudLinux, Imunify360, Let's Encrypt SSL, JetBackup, and a firewall requires several steps
 
 Run Command : wget https://raw.githubusercontent.com/towhid-codeingbd/Setting-up-a-server-with-cPanel-multiple-components/main/setup_script.sh
 
