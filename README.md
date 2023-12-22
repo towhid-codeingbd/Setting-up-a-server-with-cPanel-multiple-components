@@ -1,7 +1,12 @@
 Setting up a server with multiple components like cPanel, LiteSpeed, CloudLinux, Imunify360, Let's Encrypt SSL, JetBackup, and a firewall requires several steps
 
-wget https://raw.githubusercontent.com/towhid-codeingbd/Setting-up-a-server-with-cPanel-multiple-components/main/setup_script.sh
-chmod +x setup_script.sh
-./setup_script.sh
+Run Command : wget https://raw.githubusercontent.com/towhid-codeingbd/Setting-up-a-server-with-cPanel-multiple-components/main/setup_script.sh
+
+Then Run: chmod +x setup_script.sh
+
+
+Then Start the setup:  ./setup_script.sh
+
+after complete it will show : Installation completed. Please check the configurations for each component.
 
 
