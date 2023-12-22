@@ -78,4 +78,3 @@ if [ -s installation_errors.log ]; then
   cat installation_errors.log
 fi
 
-# You may need to manually configure each component according to your needs.
