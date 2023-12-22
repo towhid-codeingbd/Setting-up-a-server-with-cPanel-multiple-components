@@ -69,4 +69,3 @@ yum install phpalt-latest.el7.x86_64.rpm
 # Display information about the installed components
 echo "Installation completed. Please check the configurations for each component."
 
-# You may need to manually configure each component according to your needs.
